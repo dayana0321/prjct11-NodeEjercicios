@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio14",
+  "version": "1.0.0",
+  "description": "Jugando con los estados",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dayana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

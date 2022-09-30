@@ -1,0 +1,5 @@
+const logger = require('logplease')
+logger.LogLevels.DEBUG('Hola mundo de Node')
+logger.LogLevels.INFO('¡Información de último momento!')
+logger.LogLevels.WARN('Tirando warnings como campeones')
+logger.LogLevels.ERROR('Algo no está bien!!')
